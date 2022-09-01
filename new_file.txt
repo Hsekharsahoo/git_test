@@ -1,2 +1,5 @@
 okay this is the use of sublime to check if I am making the correct changes or not
 making this new file just to check if everything is working fine or not
+
+so this is after I set up SSH key for github , after new update on August 13,2021
+I hope this works out , because I dont know what to do if it doesn't :)
